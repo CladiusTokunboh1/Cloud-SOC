@@ -33,7 +33,7 @@ For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL t
 
 ## Attack Maps Before Hardening / Security Controls
 ![](https://github.com/CladiusTokunboh1/Cloud-SOC/assets/161155502/14d22345-b4b3-421e-a0f6-072e0bea82d7)
-![before syslog-linux-ssh-auth-fail 2-12-24](https://github.com/CladiusTokunboh1/Cloud-SOC/assets/161155502/0dd55001-6efe-4ff6-a5b4-c40fc8b2957d)
+![](https://github.com/CladiusTokunboh1/Cloud-SOC/assets/161155502/0dd55001-6efe-4ff6-a5b4-c40fc8b2957d)
 ![](https://github.com/CladiusTokunboh1/Cloud-SOC/assets/161155502/a6b88700-7697-4eee-8147-17757899dcdc)
 
 ## Metrics Before Hardening / Security Controls
